@@ -2,16 +2,13 @@
 
 ### 🚀 Passionate Developer | 🎓 Computer Science Student | 💡 Tech Enthusiast
 
-Welcome to my GitHub profile! I'm a dedicated developer with a passion for creating innovative solutions that solve real-world problems. From mobile applications to machine learning projects, I love exploring new technologies and building impactful software.
+Welcome to my GitHub profile! I'm a dedicated developer with a passion for creating innovative solutions that solve real-world problems. Here, I document my journey through coding, projects, and continual learning as I work toward meaningful innovations in the tech landscape.
 
 ---
 
-## 🔥 What I'm Working On
+## About Me
 
-- 🍽️ **MealBridge** - Android food donation app with AI-powered quality assessment
-- 📊 **Sentiment Analysis** - ML-powered text classification using SVM & TF-IDF
-- 🏧 **ATM Interface** - Secure banking simulation system in Java
-- 🎮 **Interactive Games** - Console-based Java applications
+In the field of programming, I work with various languages and tools, particularly Python, Java, and Web Development, to build efficient solutions for a range of technical challenges. I enjoy experimenting with machine learning, data science, and object-oriented design to create impactful projects.
 
 ---
 
@@ -38,34 +35,54 @@ Welcome to my GitHub profile! I'm a dedicated developer with a passion for creat
 
 ---
 
-## 🌟 Featured Projects
+# Key Projects
 
-### 🍽️ [MealBridge](https://github.com/Pranavi1609/MealBridge)
-**Android Food Donation Platform**
-- 🤖 AI-powered food quality assessment using MobileNetV2
-- 🔥 Firebase backend with real-time updates
-- 📍 Geolocation-based volunteer matching
-- 🎨 Material Design 3 UI components
+### 1. npc_memory – Emotion-Aware AI NPC Dialogue System 🎮🧠
+- *Description:* Built an interactive NPC dialogue system using FastAPI, PostgreSQL, and local LLMs (Mistral/DeepSeek) for memory-aware, emotionally responsive gameplay experiences.
+- *Technologies Used:* Python, FastAPI, Ollama LLMs, PostgreSQL, Sentiment Analysis (RoBERTa), HTML/CSS/JS
+- *Repository:* [npc_memory](https://github.com/NJVinay/npc_memory)
+- *Hashtags:* #Python #FastAPI #AI #LLMs #PostgreSQL #GameDevelopment #NLP
 
-### 📊 [Sentiment Analysis](https://github.com/Pranavi1609/Sentiment_Analysis)
-**ML Text Classification System**
-- 🧠 SVM classifier with TF-IDF vectorization
-- 🌐 [Live Web Demo](https://sentimentanalysis-jr3gnt8dyyjr95wvpgpeyl.streamlit.app/)
-- ☁️ Deployed on Streamlit Cloud
-- 📈 Real-time sentiment prediction
+---
 
-### 🏧 [ATM Interface](https://github.com/Pranavi1609/oibsip_taskno3)
-**Secure Banking Simulation**
-- 🔐 PIN-based authentication system
-- 💰 Complete banking operations (withdraw, deposit, balance)
-- 📊 Transaction history tracking
-- ⚡ Object-oriented programming principles
+### 2. GamePlan – Personalized Fitness & Task Tracking App 🏋📱
+- *Description:* A dynamic task tracker for fitness routines with geolocation-based attendance, trainer-assigned goals, and progress analytics.
+- *Technologies Used:* JavaScript, Firebase, HTML/CSS, Geolocation API
+- *Repository:* [GamePlan](https://github.com/NJVinay/GamePlanApp)
+- *Hashtags:* #JavaScript #Firebase #Fitness #TaskManagement #Geolocation
 
-### 🎲 [Number Guessing Game](https://github.com/Pranavi1609/oibsip_taskno2)
-**Interactive Java Console Game**
-- 🎯 Random number generation with smart hints
-- 🏆 Score tracking and attempt management
-- 🔄 Input validation and error handling
+---
+
+### 3. MealBridge – Android Food Donation Platform 🍽️
+- *Description:* AI-powered food donation app connecting surplus food donors to NGOs and volunteers with real-time tracking and quality assessment.
+- *Technologies Used:* Kotlin, Firebase, TensorFlow Lite, MobileNetV2, Material Design 3, OpenCV
+- *Repository:* [MealBridge](https://github.com/Pranavi1609/MealBridge)
+- *Hashtags:* #Android #Kotlin #AI #ML #Firebase #OpenCV #FoodWaste
+
+---
+
+### 4. Sentiment Analysis – ML Text Classification System 📊
+- *Description:* Machine learning-powered sentiment analysis tool with SVM classifier and TF-IDF vectorization, deployed as a live web application.
+- *Technologies Used:* Python, scikit-learn, Streamlit, TF-IDF, SVM, Streamlit Cloud
+- *Repository:* [Sentiment Analysis](https://github.com/Pranavi1609/Sentiment_Analysis)  
+- *Live Demo:* [Web App](https://sentimentanalysis-jr3gnt8dyyjr95wvpgpeyl.streamlit.app/)
+- *Hashtags:* #Python #NLP #ML #Streamlit #SVM #DeepLearning
+
+---
+
+### 5. ATM Interface – Secure Banking Simulation 🏧
+- *Description:* Comprehensive ATM system simulation with PIN authentication, deposit, withdrawal, balance inquiry, and transaction history.
+- *Technologies Used:* Java, OOP, Console I/O, Data Structures
+- *Repository:* [ATM Interface](https://github.com/Pranavi1609/oibsip_taskno3)
+- *Hashtags:* #Java #OOP #Banking #Simulation #ConsoleApp
+
+---
+
+### 6. Number Guessing Game – Interactive Java Console Game 🎲
+- *Description:* Engaging guessing game with random number generation, hints, and attempt tracking to improve Java programming skills.
+- *Technologies Used:* Java, Random, Scanner, Control Flow
+- *Repository:* [Number Guessing Game](https://github.com/Pranavi1609/oibsip_taskno2)
+- *Hashtags:* #Java #ConsoleGame #Educational #Loop #Conditionals
 
 ---
 
@@ -92,6 +109,18 @@ Welcome to my GitHub profile! I'm a dedicated developer with a passion for creat
 - ☁️ Cloud Computing (AWS, Google Cloud)
 - 🗄️ Database Management Systems
 - 🚀 DevOps and CI/CD practices
+
+---
+
+## Current Focus
+
+🎯 Actively seeking *full-time roles* in:
+- Full-Stack Development
+- AI/ML Engineering
+- Frontend/UI Engineering
+- Game Development and Interactive Systems
+
+🚀 Currently improving my LLM-based interaction systems, deploying secure backend services, and exploring procedural generation in 2D/3D games.
 
 ---
 
@@ -135,9 +164,10 @@ I'm always excited to collaborate on interesting projects and connect with fello
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranavi1609&color=brightgreen&style=flat-square" alt="Profile Views" />
-</div>
+## GitHub Stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NJVinay&show_icons=true&hide=contribs,prs&count_private=true)](https://github.com/NJVinay/github-readme-stats)
+
 
 <div align="center">
   <h3>⭐ Don't forget to star my repositories if you find them helpful! ⭐</h3>
