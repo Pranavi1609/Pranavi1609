@@ -89,17 +89,29 @@ In the field of programming, I work with various languages and tools, particular
 ## 🎓 Education & Experience
 
 ### 🏢 Internships
+
+- **SkillDzire** - Cloud Computing Intern (Dec 2024 - Apr 2025) | India, Remote
+  - Developed three cloud-native management systems (Attendance, Book Shop, Blood Bank) using AWS/Azure with scalable architectures
+  - Engineered secure deployments with MFA, RBAC, and AES-256 encryption for enhanced data protection across public and private clouds
+  - Achieved 95% average on 5+ hands-on projects and orchestrated ETL pipelines for data warehousing and visualization
+
+- **HDLC Technologies** - Python Development Intern (May 2023 - June 2023) | India, Remote
+  - Developed a hybrid movie recommender system using collaborative and content-based filtering, improving prediction accuracy by 15%
+  - Engineered data pipelines with Python, TensorFlow, and Pandas for preprocessing and model training
+  - Conducted A/B testing to enhance recommendation relevance and user engagement
+
 - **Oasis Infobyte** - Java Development Intern
-  - Completed multiple hands-on projects
+  - Developed a Java-based ATM simulation system that improved transaction speed by 40%
+  - Applied object-oriented principles and Java EE structure for backend design
   - Gained experience in OOP, data structures, and algorithms
   - Developed console applications and banking systems
 
 ### 🎯 Specializations
-- **Mobile App Development** (Android, Kotlin)
-- **Machine Learning** (Python, TensorFlow, Scikit-learn)
-- **Backend Development** (Firebase, Cloud Services)
+- **Mobile App Development** (Android, Kotlin, Firebase, Material Design)
+- **Machine Learning & AI** (Python, TensorFlow, Scikit-learn, Recommender Systems, NLP)
+- **Backend Development** (Firebase, Cloud Services, FastAPI, PostgreSQL)
 - **Software Engineering** (Java, OOP, System Design)
-
+  
 ---
 
 ## 🌱 What I'm Learning
