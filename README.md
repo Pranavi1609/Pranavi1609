@@ -166,7 +166,7 @@ I'm always excited to collaborate on interesting projects and connect with fello
 
 ## GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NJVinay&show_icons=true&hide=contribs,prs&count_private=true)](https://github.com/NJVinay/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranavi1609&show_icons=true&hide=contribs,prs&count_private=true)](https://github.com/Pranavi1609/github-readme-stats)
 
 
 <div align="center">
