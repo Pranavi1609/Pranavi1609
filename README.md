@@ -69,22 +69,6 @@ Welcome to my GitHub profile! I'm a dedicated developer with a passion for creat
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranavi1609&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavi1609&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavi1609&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🎓 Education & Experience
 
 ### 🏢 Internships
@@ -111,16 +95,6 @@ Welcome to my GitHub profile! I'm a dedicated developer with a passion for creat
 
 ---
 
-## 🎯 2024 Goals
-
-- [ ] Build and deploy 5+ full-stack applications
-- [ ] Contribute to open-source projects
-- [ ] Master React Native for cross-platform development
-- [ ] Learn advanced machine learning techniques
-- [ ] Complete cloud computing certifications
-
----
-
 ## 📊 This Week's Development Breakdown
 
 ```text
@@ -136,8 +110,7 @@ XML/Markdown    45 mins      ░░░░░░░░░░░░░░░   4%
 
 I'm always excited to collaborate on interesting projects and connect with fellow developers!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavi1609)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavi.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahadursha-sai-pranavi-740735257/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavi1609.github.io)
 
 ---
